@@ -1,0 +1,10 @@
+1. Scrape and Label articles according to complexity for someone who has just passed 10th class. 
+   We would like to have labels: {Beginner, Intermediate, Advanced, Irrelevant}
+
+2. Build the Wikipedia Graph along with attributes (including keywords, tags, NLP features etc.)
+
+3. Create additional features based on Graph using concepts like centrality metrics, clustering coefficient. 
+
+4. Development of Node classification Models
+
+5. Graph Traversal and Article Ordering Algorithm
